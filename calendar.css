@@ -1,0 +1,66 @@
+table,
+td,
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.azul {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: blue;
+}
+
+.verde {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: green;
+}
+
+.rosa {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: pink
+}
+
+.roxo {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color:purple
+}
+
+table,
+td,
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* Estilo para o cabeçalho do calendário */
+#calendar th {
+    background-color:#f2e8ec;
+    /* Cor de fundo rosa claro */
+    padding: 15px;
+    /* Espaçamento interno */
+    text-align: center;
+    /* Centralizar texto */
+
+}
+
+/*td:nth-of-type(7n+1) {
+    background-color:#fff /* Cor de fundo para domingos 
+}
+*/
+.domingo {
+    background-color: rgb(255, 0, 0);
+    /* Cor de fundo rosa claro */
+    color: rgb(255, 255, 255);
+    /* Cor do texto (preto) */
+}
+#dom{
+    color: red;
+}
