@@ -39,7 +39,7 @@ O projeto utiliza CSS para estilização, incluindo diversas propriedades e recu
 
 ## Contribuição
 
-Contribuições são bem-vindas! Para maiores detalhes, por favor confira nosso [guia de contribuição](CONTRIBUTING.md).
+Contribuições são bem-vindas!
 
 Este projeto oferece uma maneira interativa e visualmente atraente de acompanhar e gerenciar o uso de veículos ao longo do mês.
 
